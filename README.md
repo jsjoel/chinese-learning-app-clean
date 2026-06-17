@@ -57,9 +57,6 @@ src/
 └── router.tsx     # Router configuration
 ```
 
-## No Lovable Dependencies
-
-This project is completely independent with no Lovable framework traces. All dependencies are standard open-source libraries.
 
 ## License
 
